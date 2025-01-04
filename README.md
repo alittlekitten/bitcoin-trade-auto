@@ -36,3 +36,6 @@
 #### 기본 Script 작성
 - 조코딩님이 작성해놓은 기본 코드를 불러와서 코드 정리 후 테스트 완료
 - 추가해야 할 부분, 보완해야 할 부분에 대해서 주석 추가
+- 아래 사진과 같이 동작하는 것을 확인할 수 있다.
+  - <img width="833" alt="image" src="https://github.com/user-attachments/assets/b6fd38e0-8dbf-4b91-87f9-e40ff01d09fb" />
+
