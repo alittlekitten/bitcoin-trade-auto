@@ -2,7 +2,10 @@
 - ChatGPT가 분석해주는 전략을 이용하여 암호화폐 거래소 Upbit에서 제공하는 계정 / 거래 / 조회 api를 사용해서 자동거래 시스템을 구축해보고자 한다.
 - Python을 기반으로 구현한다.
 
-## 진행 과정
+## 실행 방법
+- 터미널에 `python3 script.py` 명령어를 작성하는 것으로 실행할 수 있다.
+
+## 업데이트 내역
 ### 25.01.05.
 #### [Upbit Open API Key](https://upbit.com/service_center/open_api_guide) 발급
 - <img width="713" alt="image" src="https://github.com/user-attachments/assets/9b4ae4ab-6c33-4ce1-9346-d4819f62d060" />
